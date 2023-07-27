@@ -2,13 +2,17 @@
 
 
 def add(a, b):
-    return a + b
+    c = a + b
+    print(c)
 
 def sub(a, b):
-    return a - b
+    c = a - b
+    print(c)
 
 def mult(a, b):
-    return a * b
+    c = a * b
+    print(c)
 
 def div(a, b):
-    return a // b
+    c = a / b
+    print(c)
