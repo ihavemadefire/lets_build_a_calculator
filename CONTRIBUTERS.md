@@ -4,3 +4,4 @@
 (In no particular order)
 
 ** Jacob Ide ** (https://github.com/ihavemadefire)
+** Tabitha O'Melay ** (https://github.com/tabbykatz)
